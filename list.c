@@ -1,6 +1,8 @@
 #include "list.h"
 #include <stdio.h>
-
+// By Paramroop Parmar
+// student number: 301555338
+//date: jan31 2024
 static List listHead[LIST_MAX_NUM_HEADS];
 Node nodes[LIST_MAX_NUM_NODES];
 bool made = false; // if list created has been used yet
